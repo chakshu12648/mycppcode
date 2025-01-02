@@ -1,3 +1,4 @@
+//this is the code for finding the minimum of the numbers of two arrays in between the particular intervals using segment tree concept
 #include <bits/stdc++.h>
 using namespace std;
 
